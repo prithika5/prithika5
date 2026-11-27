@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ffc8dd,50:e4c1f9,100:bde0fe&height=170&section=header&text=hi,%20i'm%20prithika!%20%E2%99%A1&fontSize=46&fontColor=6b4c7a&fontAlignY=50" alt="hi, i'm prithika!" width="100%" />
-</p>
-
 <p align="center"><i>✿ cs &amp; engineering @ uc davis ✿ turning messy data into cute little tools ✿</i></p>
 
 <p align="center">
