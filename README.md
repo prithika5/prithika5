@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="banner.svg" alt="welcome to prithika's corner of github" width="100%" />
+  <img src="banner.svg" alt="hi, i'm prithika! cs &amp; engineering @ uc davis" width="100%" />
 </p>
 
-<p align="center">cs &amp; engineering @ uc davis &nbsp;·&nbsp; building ai &amp; data tools</p>
+<p align="center">building ai &amp; data tools ♡</p>
 
 <p align="center">
   <a href="https://routehacker.vercel.app"><img src="https://img.shields.io/badge/RouteHacker%20live-f9c6d4?style=for-the-badge&logo=vercel&logoColor=a64d79" alt="RouteHacker live" /></a>
