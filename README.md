@@ -1,3 +1,5 @@
+<h1 align="center">˚₊‧꒰ა welcome to my little corner of github ໒꒱ ‧₊˚</h1>
+
 <p align="center"><i>✿ cs &amp; engineering @ uc davis ✿ turning messy data into cute little tools ✿</i></p>
 
 <p align="center">
