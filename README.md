@@ -1,10 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd1dc,100:cdb4ff&height=190&section=header&text=hi,%20i'm%20prithika!%20%E2%8B%86%EF%BD%A1%CB%9A&fontSize=44&fontColor=5b4370&fontAlignY=38&animation=fadeIn" alt="hi, i'm prithika!" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ffc8dd,50:e4c1f9,100:bde0fe&height=170&section=header&text=hi,%20i'm%20prithika!%20%E2%99%A1&fontSize=46&fontColor=6b4c7a&fontAlignY=50" alt="hi, i'm prithika!" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=B07CC6&center=true&vCenter=true&width=520&lines=computer+science+%26+engineering+%40+UC+Davis;turning+messy+data+into+cute+little+tools;currently+looking+for+summer+2027+internships!" alt="typing intro" />
-</p>
+<p align="center"><i>✿ cs &amp; engineering @ uc davis ✿ turning messy data into cute little tools ✿</i></p>
 
 <p align="center">
   <a href="https://routehacker.vercel.app"><img src="https://img.shields.io/badge/RouteHacker%20live-cdeffd?style=for-the-badge&logo=vercel&logoColor=5b4370" alt="RouteHacker live" /></a>
@@ -68,10 +66,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prithika5&color=cdb4ff&style=flat-square&label=visitors" alt="visitor count" />
-</p>
-
 <p align="center"><i>thanks for stopping by! ♡</i></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:cdb4ff,100:ffd1dc&height=110&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:bde0fe,50:e4c1f9,100:ffc8dd&height=60&section=footer" width="100%" alt="" />
