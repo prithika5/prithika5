@@ -1,15 +1,17 @@
-<h1 align="center">˚₊‧꒰ა welcome to my little corner of github ໒꒱ ‧₊˚</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:fde2e4,50:f9c6d4,100:f4acc4&height=200&section=header&text=%F0%9F%8E%80%20welcome%20%F0%9F%8E%80&fontSize=52&fontColor=a64d79&fontAlignY=36&desc=to%20prithika's%20little%20corner%20of%20github%20%E2%99%A1&descSize=20&descAlignY=58" alt="welcome to prithika's little corner of github" width="100%" />
+</p>
 
-<p align="center"><i>✿ cs &amp; engineering @ uc davis ✿ turning messy data into cute little tools ✿</i></p>
+<p align="center"><i>ʚ♡ɞ cs &amp; engineering girlie @ uc davis ‧₊˚ making pretty little things with code &amp; data ʚ♡ɞ</i></p>
 
 <p align="center">
-  <a href="https://routehacker.vercel.app"><img src="https://img.shields.io/badge/RouteHacker%20live-cdeffd?style=for-the-badge&logo=vercel&logoColor=5b4370" alt="RouteHacker live" /></a>
-  <a href="https://hive-network-kohl.vercel.app"><img src="https://img.shields.io/badge/Hive%20Network%20live-fff3c4?style=for-the-badge&logo=vercel&logoColor=5b4370" alt="Hive Network live" /></a>
+  <a href="https://routehacker.vercel.app"><img src="https://img.shields.io/badge/RouteHacker%20live-f9c6d4?style=for-the-badge&logo=vercel&logoColor=a64d79" alt="RouteHacker live" /></a>
+  <a href="https://hive-network-kohl.vercel.app"><img src="https://img.shields.io/badge/Hive%20Network%20live-fdf0e6?style=for-the-badge&logo=vercel&logoColor=a64d79" alt="Hive Network live" /></a>
 </p>
 
 ---
 
-### ˚₊‧ about me ‧₊˚
+### 🎀 about me
 
 - 🎓 B.S. Computer Science & Engineering @ **UC Davis**, minor in Technology Management (class of 2028)
 - 🌉 Bay Area girl, from Dublin, CA
@@ -19,7 +21,7 @@
 
 ---
 
-### 🎀 things i've made
+### ʚ♡ɞ things i've made
 
 <table>
   <tr>
@@ -54,7 +56,7 @@
 
 ---
 
-### 🧸 my toolbox
+### 🩰 my toolbox
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,ts,js,react,nextjs,nodejs,tailwind&theme=light" alt="languages and frameworks" />
@@ -64,6 +66,6 @@
 
 ---
 
-<p align="center"><i>thanks for stopping by! ♡</i></p>
+<p align="center"><i>thanks for stopping by, xoxo 🎀</i></p>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:bde0fe,50:e4c1f9,100:ffc8dd&height=60&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:f4acc4,50:f9c6d4,100:fde2e4&height=70&section=footer" width="100%" alt="" />
